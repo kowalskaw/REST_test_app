@@ -112,3 +112,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.xml
+*.exe
+*.bat
+*.iml
+*.cfg
+RES_test_appT/venv_lapt/Scripts/activate
+RES_test_appT/venv_lapt/Scripts/Activate.ps1
+RES_test_appT/venv_lapt/Scripts/easy_install-3.7-script.py
+RES_test_appT/venv_lapt/Scripts/easy_install-script.py
+RES_test_appT/venv_lapt/Scripts/pip-script.py
+RES_test_appT/venv_lapt/Scripts/pip3-script.py
+RES_test_appT/venv_lapt/Scripts/pip3.7-script.py
